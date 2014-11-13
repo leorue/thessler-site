@@ -322,13 +322,13 @@ animation:fadeInDown .6s .5s ease both;
 }
 
 #logo {
-width:235px;
-height:79px;
+width:200px;
+height:200px;
 position:absolute;
-left:50%;
-margin-left:-117.5px;
-background:url(../images/logo.png) no-repeat;
-background-size:100%;
+left:35%;
+margin:auto;
+background:url(../images/logo.svg) no-repeat;
+background-size:60%;
 text-indent:100%;
 white-space:nowrap;
 overflow:hidden;
