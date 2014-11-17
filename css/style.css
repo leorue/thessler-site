@@ -18,13 +18,13 @@ display:none;
 }
 
 html {
-font-family:sans-serif;
+font-family:'langdonregular', sans-serif;
 -webkit-text-size-adjust:100%;
 -ms-text-size-adjust:100%;
 }
 
 body {
-font-family:Raleway, sans-serif;
+font-family:'langdonregular', Raleway, sans-serif;
 font-size:62.5%;
 color:#434343;
 -webkit-animation:fadeIn 1s .1s ease both;
@@ -45,7 +45,7 @@ outline:0;
 
 h1 {
 color:#fff;
-font-size:7em;
+font-size:10em;
 font-weight:700;
 line-height:.8em;
 margin:.67em 0;
