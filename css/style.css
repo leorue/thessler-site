@@ -150,10 +150,12 @@ section{
   padding-bottom: 2%;
   margin-bottom: 0;
   margin-top: 0;
+  cursor:pointer;
 }
 
 .box:hover{
   color:#B2B2CC;
+  cursor:pointer;
 }
 
 .onhover{
