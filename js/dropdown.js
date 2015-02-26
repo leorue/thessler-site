@@ -91,6 +91,8 @@ $(".photoInit").click(function () {
 });
 
 $(".back").click(function () {
+	$("#photo").fadeOut(750);
+	$("#multi").fadeOut(750);
 	$("#webdev").fadeOut(750);
 	$("#admin").fadeOut(750);
 	$("#content").fadeIn(750);
